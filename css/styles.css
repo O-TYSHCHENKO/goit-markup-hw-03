@@ -161,7 +161,7 @@ img {
         padding-bottom: 188px;
 }
 .hero-text {
-        padding-bottom: 48px;
+        margin-bottom: 48px;
         margin-right: auto;
         margin-left: auto;
         width: 496px;
@@ -236,7 +236,7 @@ img {
 }
 /*  section What are we doing*/
 .doing-main {
-        padding: 120px 0;
+        padding: 0 0 120px 0;
 }
 .doing-nav {
         display: flex;
@@ -383,7 +383,7 @@ img {
         border-top: none;
 }
 .work-type-name {
-        padding-bottom: 8px;
+        margin-bottom: 8px;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
